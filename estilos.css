@@ -1,0 +1,20 @@
+.p{
+    font-size: 100px;
+    text-align: center;
+}
+h2{
+    text-align: center;
+}
+h1{
+    text-align: center;
+}
+body{
+    background-color: rgb(164, 187, 207);
+}
+.color{
+    background-color: azure;
+    width: 600px;
+    text-align: center;
+    float: center;
+    margin: 0 auto;
+}
