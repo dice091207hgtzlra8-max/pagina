@@ -13,6 +13,8 @@
     <h2>Fecha: 9/NOV/2026</h2>
     <h2>CBTis217</h2>
     <h2 class ="p">Bienvenido</h2>
+    <img src="cbtis.png" alt="">
+    <a href="saludos.php">Saludos</a>
     </div>
 </body>
 </html>
