@@ -8,7 +8,7 @@
 </head>
 <body>
 
-<div class="c">
+<div class="color">
 <h1>Elige un idioma</h1>
 <form action="saludos.php" method="POST">
 <label>Escribe un idioma</label>
@@ -32,6 +32,7 @@
         </form>
 
 <div class="r">
+    <!--cuando escriben un es o fr o algo mas se manda un saludo en el idioma que escribes-->
     <?php
     if ($_SERVER["REQUEST_METHOD"] == "POST" && isset($_POST['Calcular'])) { 
      $idioma = ($_POST['idioma']);
